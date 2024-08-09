@@ -34,5 +34,8 @@
 
 ## 블로그에 추가 설명과 링크
 생성형 : https://velog.io/@path_creator/%EB%B0%B1%EC%97%94%EB%93%9C%EC%97%90%EC%84%9C-%EC%9E%90%EC%A3%BC-%EC%82%AC%EC%9A%A9%EB%90%98%EB%8A%94-%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4
+<br/>
 구조형 : https://velog.io/@path_creator/%EB%B0%B1%EC%97%94%EB%93%9C%EC%97%90%EC%84%9C-%EC%9E%90%EC%A3%BC-%EC%82%AC%EC%9A%A9%EB%90%98%EB%8A%94-%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-%EA%B5%AC%EC%A1%B0-%ED%8C%A8%ED%84%B4%ED%98%95-
+<br/>
 행위형 : https://velog.io/@path_creator/%EB%B0%B1%EC%97%94%EB%93%9C%EC%97%90%EC%84%9C-%EC%9E%90%EC%A3%BC-%EC%82%AC%EC%9A%A9%EB%90%98%EB%8A%94-%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-%EA%B5%AC%EC%A1%B0-%ED%8C%A8%ED%84%B4%ED%98%95-nayvgs1w
+<br/>
