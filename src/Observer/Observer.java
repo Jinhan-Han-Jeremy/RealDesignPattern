@@ -1,2 +1,5 @@
-package Observer;public interface Observer {
+package Observer;
+
+interface Observer {
+    void display(WeatherAPI api);
 }

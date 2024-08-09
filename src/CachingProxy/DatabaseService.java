@@ -1,2 +1,5 @@
-package CachingProxy;public interface DatabaseService {
+package CachingProxy;
+
+public interface DatabaseService {
+    String queryDatabase(String query);
 }

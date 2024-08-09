@@ -3,7 +3,7 @@ package CachingProxy;
 import java.util.HashMap;
 import java.util.Map;
 
-public class CachingProxy implements DatabaseService{
+public class CachingDatabaseProxy implements DatabaseService{
     private RealDatabaseService realService = new RealDatabaseService();
     private Map<String, String> cache = new HashMap<>();
 
